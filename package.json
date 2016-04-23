@@ -1,0 +1,14 @@
+{
+  "name": "hw11_constructor",
+  "version": "1.0.0",
+  "description": "hw for Constructors",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
